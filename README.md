@@ -1,4 +1,4 @@
 # Roact InGameInventory
-```
-hi
+```lua
+local test = {}
 ```
